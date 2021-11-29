@@ -1,1 +1,1 @@
-# Data-Acquisition-Software-with-Arduino
+# Data Acquisition Software with Arduino
