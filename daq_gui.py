@@ -3,11 +3,11 @@
 # Created by: PyQt5 UI code generator 5.9.2
 
 import os
-import glob
-from datetime import datetime
-import pandas as pd
-from serial.tools import list_ports
 import sys
+import pandas as pd
+from datetime import datetime
+from serial.tools import list_ports
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QWidget, QFileDialog
 

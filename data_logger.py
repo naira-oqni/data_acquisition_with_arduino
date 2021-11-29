@@ -1,14 +1,10 @@
-import threading
 import serial
-import argparse
 import time
 import pandas as pd
 import numpy as np
-from scipy import interpolate
 import struct
-from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5 import QtGui
 
-# sample = True
 # command <=0, label>0 
 # command codes: start=0, stop=-1, pause=-2, resume=-3, label=1 
 
