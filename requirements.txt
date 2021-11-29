@@ -1,0 +1,7 @@
+arduino software
+serial
+pandas
+numpy
+struct
+pyqt5
+pyqt5 pyqt5-tools
